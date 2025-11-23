@@ -24,6 +24,7 @@ check_password_strength(password)(length, use_upper, use_lower, use_digits, use_
 5. Implementation:
 The project will use the string and random modules.Control flow structures like if/elif/else and for/while loops will manage user input and algorithm logic. Functions are essential to encapsulate the password strength checking logic, making the code strong and secure.
 6. Testing and Refinement:
+
 Testing:
 Test checking strength passwords of various lengths and combinations of character types.
 Test the checker with clearly "Weak", "Medium", and "Strong" passwords to ensure correct classification
