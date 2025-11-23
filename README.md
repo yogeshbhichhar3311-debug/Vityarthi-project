@@ -1,10 +1,15 @@
 # Vityarthi-project: Password Strength Checker
 This project random check password strength and security based on user-defined criteria. It based on Python data structures (lists, strings), functions, conditional logic, and the use of standard libraries.
+
 Objectives and Expected Outcomes:
+
 Objectives :
 To build a practical that helps users check strong and secure passwords for online safety.
+
 Expected Outcome: A Python application that takes user preferences (length, character types) and outputs a stronger and randomized password for checking its strength.
+
 Structured development process:
+
 1. Problem Definition:
 checking strong, unique passwords for every online account is important for humans. An automated tool is needed to checker random, complex passwords that based on modern security standards.
 2. Requirement Analysis:
